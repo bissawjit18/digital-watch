@@ -1,63 +1,90 @@
-📘 Digital Study Focus Watch
+# ⏰ Digital Study Focus Watch
 
-Live Demo: https://bissawjit18.github.io/digital-watch/
+🔗 **Live Demo:** https://bissawjit18.github.io/digital-watch/
 
-A light and minimal digital watch designed to help you stay focused during study sessions. It shows time and date clearly without distractions.
+A simple, clean, and minimal digital watch designed for study focus.  
+This project avoids distractions and shows only essential information to help you stay concentrated while studying.
 
-📌 Features
+---
 
-Real-time digital clock (HH:MM:SS)
+## ✨ Features
 
-Current day and date
+- Real-time digital clock (Hours, Minutes, Seconds)
+- AM / PM indicator
+- Current day and date display
+- Dark & Light mode toggle
+- AM/PM based mode icon  
+  ☀️ for AM  
+  🌙 for PM
+- Rotate option (portrait ↔ landscape)
+- Fully responsive (mobile, tablet, desktop)
+- Minimal UI for distraction-free study
 
-Auto light/dark mode based on time
+---
 
-Works on phones, tablets & desktops
+## 🧠 Purpose
 
-Simple interface for focused study
+This project is built for students and learners who want a simple digital clock during study sessions.  
+The clean interface helps keep track of time without breaking focus.
 
-🧠 Why This Project?
+---
 
-This watch was built with study focus in mind. Instead of flashy features, it gives you the time you need in a clean and calm UI so you can concentrate better.
+## 🛠️ Built With
 
-🛠️ Built With
+- HTML
+- CSS (CSS Variables for theme support)
+- JavaScript (Vanilla JS)
 
-HTML
+No frameworks or external libraries used.
 
-CSS
+---
 
-JavaScript (Vanilla, no frameworks)
+## 🚀 How to Use
 
-No extra libraries or dependencies.
+### Option 1: Live Version
+Open the project directly in your browser:  
+https://bissawjit18.github.io/digital-watch/
 
-🚀 How to Use
+### Option 2: Run Locally
 
-Clone the repo
+1. Clone the repository
+   ```bash
+   git clone https://github.com/bissawjit18/digital-watch.git
 
-git clone https://github.com/bissawjit18/digital-watch.git
+2. Open the project folder
+   ```bash
+   cd digital-watch
 
+3. Open index.html in any browser
 
-Enter the project folder
+---
 
-cd digital-watch
+## 📁 Project Structure
 
+```plaintext
+digital-watch/
+└── index.html
+```
 
-Open in browser
+The entire project is kept in a single file for simplicity and easy understanding.
 
-Open index.html in your browser
+---
 
-Or visit the live version above
+## 🔮 Future Improvements
 
-
-🔧 Future Ideas
-
-Add a study timer (Pomodoro)
+Pomodoro / study timer
 
 Fullscreen focus mode
 
-Optional silent alerts
+Screen wake-lock for long study sessions
 
-👤 Author
+Optional visual-only alerts (no sound)
+
+---
+
+## 👤 Author
 
 Bissawjit Chandraw
-Check out my work and feel free to use or improve this project!
+GitHub: https://github.com/bissawjit18
+
+Feel free to fork, use, and improve this project.
